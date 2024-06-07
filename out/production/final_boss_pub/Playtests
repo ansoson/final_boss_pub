@@ -1,0 +1,224 @@
+==================================================
+Anthony Playtests for LAST Final (Dec 19)
+
+Playtest 1: Adelle Clark, casual gamer
+- Enjoyed the dialogue reacting to specific things (weapons, watering can, etc.)
+- The little magma guys last too long and move a little too fast
+- Didn't know about escape menu, missed that part in the instructions
+- Attempted to hide from lava splash attack in front wall, still got hit
+- Had a decent amount of fun and took a while playtesting
+
+Playtest 2: Derek Reeves, semi-gamer
+- Dashing into the loading zone caused some issues
+- Also didn't realize there was a menu, despite looking at instructions
+- Didn't notice there was a second attack
+- Overall had a fun time
+
+Playtest 3: Lucien Bates-Artinian
+- Net is a little too strong
+- Dash UI did not update in boss room
+- thought laser attack might be too fast
+- Had a 30 minute conversation about the game so honestly seemed pretty interesting
+
+==================================================
+Jack Playtests for LAST Final (Dec 19)
+featuring... my family! (yay)
+
+Playtest 1: Will Cobey, Certified Gamer
+-helpfully pointed out the framerate was "kinda slow"
+-was impressed by the attack sprites and the art overall
+-asked followup questions about the dialogue, seemed impressed by replayability promise
+-immediately started metagaming on most useful weapons
+-liked double-dash a lot when he realized how to use it, comboed this with Net pretty nicely
+
+Playtest 2: Whitney Cobey, certified not even a Candy Crush gamer
+-had to keep prompting her, she did not look at instructions at all
+-liked the dialogue and the villain sprite, chuckled a little
+-thought it was "very nice"
+-does not really like fighting (told me that)
+
+Playtest 3: Chris Cobey, Certified Over Five Hundred Hours on Microsoft Flight Simulator
+-helpfully pointed out the framerate was "kind of slow"
+-liked the fishing rod
+-was annoyed that the parry/killing of "tiny guys" was "sort of off"
+-once I told him how to switch weapons he just kept doing that back and forth
+
+==================================================
+Sylvie Playtests for LAST Final (Dec 19 submission)
+
+What I told people:
+Nothing
+
+Playtest 1: Will Kubzansky, big gamer! my awesome friend
+
+- Did not click instructions, I had to tell him how to get to the upgrade menu
+- Was confused about what the dash icon meant
+- LOVED the boss's dialogue, laughed at a lot of his lines
+- Thought it was STUNNING!
+
+Playtest 2: Katy Pickens, not as much of a gamer, but plays a few video games. ALSO my awesome friend.
+
+- Also did not click instructions, but realized, and asked to restart to read them.
+- Kept forgetting the controls
+- Seemed a bit confused by
+- Only picked up 1 weapon, thought you have to switch weapons to attack with the other weapon (as in, didn't know X did one weapon, Z did the othera)
+- Didn't think to go into pause menu and apply upgrades.
+- Thought the boss' dialogue was so funny and lovely.
+- Loved the music.
+- Was very addicted, kept wanting to play and try to beat the boss.
+- Was very scared of the boss' minions!!!!
+
+
+Playtest 3: Kayleen Vicente, plays a few games
+
+- Clicked instructions
+- Also kept forgetting controls, didn't know where to find them
+- Laughed at the boss' dialogue.
+- Was so so impressed!!!!
+
+
+==================================================
+Grethell Playtests for Final IV (Dec "19" submission)
+
+What I told people:
+-nothing
+
+Playtest 1: Marbelis Aguilar, not a gamer
+
+- confused about why the character was not waking up
+- thought dash icons represented lives
+- after using dash, understood the icons
+- stood next to the boss the entire time thinking the attacks could not be dodged.
+- got frustrated that the weapon she had upgraded disappeared in the next round
+
+Playtest 2: Grethell Estrada, not a gamer
+
+- confused about weapons reappearing after being picked up
+- really liked the design of the overworld and the battle world entrance
+- closed game trying to close pause menu
+- did not understand how to use upgrade menu
+- liked the contrast between the overworld sound and battle world music
+
+Playtest 2: Daniel Lopez, gamer
+
+- thought game was too hard
+- died very fast in the first round
+- confused about weapon options being different every time
+- never used dash, forgot it existed
+- said the warning for boss attacks was very fast
+
+
+==================================================
+Jack Playtests for Final II (Nov "28" submission)
+
+What I told people:
+-our controls (because we haven't made an instructions page as of my current push, 58363dc)
+
+What I didn't tell them:
+-what anything signified
+
+Didn't talk at all during playthrough until they quit, at time noted in each playthrough I then helped them if they were stuck
+just so I could get feedback on a few more features.
+
+Playtest 1: Charles Effman
+
+He plays Paper Mario, so he's a little bit of a gamer. Notes are as follows:
+- "Who are they" (about white spots in field-- "cracks" between tiles). Was upset when it was evidently "fixed" next go around.
+- Confused about spawning offscreen
+- Attack went wrong way while running, Charlie noted that it felt unintuitive to have to "run at him, stop, then attack".
+- He couldn't see the sprites on the logs at all, save for the rope and net, and after a while noticed the shield.
+- Noticed some weapons had weird cooldown-- especially the fishing rod. The net was fine though.
+- "I can't read this at all " about the payout page.
+- Boss died quicker on re-fights, until single attacks were soloing it. He then tried to recreate it and it didn't happen.
+  Visibly confused by this.
+- Bubbles "remained on field" (his justification for why boss was being soloed... look into this?)
+
+Playtest 2: Nadia Bishop
+
+Self described "not a gamer".
+
+- Also got lost in the first spawn-in on battle view.
+- Spammed buttons despite having no weapons, since missed weapons. Died.
+- Totally ignored weapons.
+(I proceeded to explain weapons.)
+- She couldn't understand rope or shield with their current menu sprites.
+- "Wow"
+- Confusion over boss head not being hittable
+- "What's with the shaded HP bar? Why does he have that"
+- very excited about watering can, laughed
+- "I like the little guy"
+
+Both were enthused by the game and expressed wanting to try again when we had patched bugs.
+
+==================================================
+Sylvie Playtests Final II (Nov "28" submission)
+What I told people:
+-our controls
+
+Playtest 1: Will Kubzansky, is a gamer, my friend
+
+- Expected dialogue to go away after a while, would forget to press space
+- Did not understand fully where to pick up weapons, went in dungeon without weapons on second entrance into arena
+- Waiting around for boss to kill was slow
+- Wanted to know how to switch weapons (make primary secondary, vice versa)
+- Feels like Undertale (tougue and cheek villain), and also this platform game Super Adventure Pals
+- Couldn't read end of game screen
+
+
+Playtest 2: Katy Pickens, is also a gamer, my friend!
+
+- Expected dialogue to go away after a while, would forget to press space
+- Confused by Boss's hitbox
+- Did not notice coins
+- Couldn't read end of game screen
+
+==================================================
+Grethell Playtests Final II (Nov "28" submission)
+
+What I told people:
+- only controls
+
+Playtest 1: Beatriz Martinez, is a gamer(Sims, Zelda, Minecraft)
+
+- Liked the idle animation
+- Couldn't tell what weapons the character was holding
+- Confused about why weapons show up on the stumps again after being picked up
+- Confused about the timer on the main screen going negative
+- Liked the art
+- Confused about what key to press to advance dialogue
+- Expected weapons to do less damage, said boss dies too easily
+
+
+Playtest 2: Daniel Lopez, gamer (WoW)
+
+- Confused about what to do on the weapon selection screen, started first battle with no weapons.
+- Expected attacks to work even without weapons.
+- Confused about the boss hitbox not including the head.
+- Expected to be able to choose which hand to place a weapon in from the inventory.
+- Likes the idle animation
+- Expected combat to pause when menu was open
+
+==================================================
+Anthony Playtests Final II (Nov "28" submission)
+
+What I told people:
+- attack buttons are x and z
+
+Both of them had entered boss arena without weapons and were unsure of what was going on, at that point I
+had explained they had to pick up weapons and I restarted the game
+
+Playtest 1: Milli Shah, not a gamer
+- Walked into arena without grabbing weapons, unclear about pathway
+- Didn't think items had been picked up as they had respawned
+- perspective was off, couldn't tell why things weren't hitting
+- Recommended guidance on how to progress, entranceway wasn't suepr clear
+- Text goes too slow, perhaps hitting a key would make text stop crawling and skip to all printed
+- Confused by text at the end of the game, concerned they did bad enough to get a score of 0
+
+Playtest 2: Cam Hebert, not a gamer
+- Also had difficulty telling whether or not items were held
+- Liked items, thought they were fun
+- Did not figure out dash functionality
+- Had weapons going backwards while running
+- Timed out on the overworld and died, was a little confused
+- Also confused on perspective and visuals

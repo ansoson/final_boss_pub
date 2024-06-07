@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="openjfx-20.0.2_windows-x64_bin-sdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/csci1950n-final-project-fall-2023-final-boss/openjfx-20.0.2_windows-x64_bin-sdk.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
